@@ -1,8 +1,8 @@
 {
-  "expoServerPort": 19000,
-  "packagerPort": 19002,
-  "packagerPid": 65534,
-  "expoServerNgrokUrl": "https://in-vug.rabdulsal.swipe.exp.direct",
-  "packagerNgrokUrl": "https://packager.in-vug.rabdulsal.swipe.exp.direct",
-  "ngrokPid": 65549
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
